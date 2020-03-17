@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/versionlin7/myDesign-react/issues"
   },
-  "homepage": "https://github.com/versionlin7/myDesign-react#readme"
+  "homepage": "https://github.com/versionlin7/myDesign-react#readme",
+  "dependencies": {
+    "awesome-typescript-loader": "^5.2.1",
+    "webpack": "^4.42.0",
+    "webpack-cli": "^3.3.11"
+  },
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
 }
